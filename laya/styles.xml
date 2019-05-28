@@ -1,0 +1,58 @@
+<res>
+   <item name="ui/clip_di.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/clip_Floor_1.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/clip_Floor_2.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/clip_Floor_3.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/clip_Floor_4.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/logo_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/logo_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/FEVER_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/FEVER_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="ui/wavetex.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/howto1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/howto2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/howto4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/result_board.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/whale.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/whale_night.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="tupian/cloud8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/GameOverMessage.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/logo.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/line1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/tai.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/shop-banners_0.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/shop-banners_1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/shop-banners_2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/shop-banners_3.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/clip_reward-pic.png" type="Clip" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/tip10.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/tip11.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/tip33.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/tip65.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/tip66.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip33.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip65.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip66.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip100.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip101.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="font/tip111.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/bg1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="pngs" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="pngs/0319/btn_1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="pngs/0319/btn_2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="pngs/0319/btn_3.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/btn_1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/btn_2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/btn_chickens.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/btn_first.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="gate/text_2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>
